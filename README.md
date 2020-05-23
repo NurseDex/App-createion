@@ -1,1 +1,1 @@
-# App-createion
+git clone https://github.com/flutter/flutter.git -b stable
